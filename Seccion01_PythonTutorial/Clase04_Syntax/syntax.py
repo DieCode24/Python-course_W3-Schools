@@ -13,3 +13,11 @@ y = "\n\nHello, World!"
 
 # Impresión de la concatenación del string "Hello, World!" con el string "\nNumber => " y el valor de la variable x convertido a string.
 print(y + "\nNumber => " + str(x))
+
+'''
+Salida del programa.
+
+La función exit() termina la ejecución del programa de Python.
+Aunque en este punto no se realiza ninguna acción adicional, el uso de exit() asegura una terminación limpia del programa.
+'''
+exit()
